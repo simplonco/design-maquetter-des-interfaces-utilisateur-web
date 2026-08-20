@@ -41,10 +41,13 @@ Regardons maintenant en quoi consiste cette mission et comment la mener à bien.
 
 Une maquette ou prototype est un plan visuel de ton application. Comme pour la construction d'une maison, il est essentiel de faire un plan en amont pour valider ce que tu vas construire.
 
-Tout au long de son développement **un site web évolue**. Tu devras maintenir à jour les maquettes lors du développement de nouvelles fonctionnalités. Le plan n'est pas définitif.
+Un site web évolue tout au long de son développement. Tu devras maintenir à jour les maquettes lors du développement de nouvelles fonctionnalités. Le plan n'est pas définitif.
 {:.alert-warning}
 
-Ce plan peut être plus ou moins détaillé selon le temps que tu y consacres. La preuve en image :
+Ce plan peut être plus ou moins détaillé selon le temps que tu y consacres. 
+
+La preuve en image :
+[https://www.youtube.com/watch?v=x9wn633vl_c](https://www.youtube.com/watch?v=x9wn633vl_c)
 
 ### Types de maquettes
 
@@ -56,7 +59,7 @@ Tu dois connaître les différents types de maquettes et le vocabulaire associé
 
 Pour en savoir plus, consulte cette ressource :
 
-[Installer et configurer VS Code](https://simplonco.github.io/installer-et-utiliser-visual-studio-code/)
+- [Concevoir des prototypes](https://simplonco.github.io/design-concevoir-des-prototypes)
 
 ### Choisir un outil
 
@@ -66,8 +69,8 @@ Pour des maquettes basiques, tu peux utiliser [Excalidraw](https://excalidraw.co
 
 Et pour apprendre à l'utiliser en quelques secondes :
 
-* [Excalidraw - tutoriel 1](https://www.youtube.com/watch?v=MayTRZAh0QE)
-* [Excalidraw - tutoriel 2](https://www.youtube.com/watch?v=O1Kqxw07VWM)
+[Excalidraw - tutoriel 1](https://www.youtube.com/watch?v=MayTRZAh0QE)
+[Excalidraw - tutoriel 2](https://www.youtube.com/watch?v=O1Kqxw07VWM)
 
 ### Composer ton interface
 
@@ -80,16 +83,18 @@ Une fois ton outil choisi, tu as besoin de connaître les différents composants
 
 Pour approfondir la composition de ton interface :
 
-[Installe, configure, utilise un éditeur de code](https://simplonco.github.io/installe-configure-utilise-un-editeur-de-code/)
+- [Les composants d'interface utilisateur](https://simplonco.github.io/design-les-composants-dinterface-utilisateur/)
 
 ## Challenge
 
-Exporte ta maquette depuis [Excalidraw](https://excalidraw.com/), et poste l'image en solution du challenge.
+Exporte ta maquette depuis [Excalidraw](https://excalidraw.com/) si tu souhaites la partager. 
 
 ![Menu > Exporter image...](images/excalidraw-export.png)
 
 ### Critères de validation
 
 - [ ] La maquette est conforme au brief donné.
+
+---
 
 [Voir la solution](solution){:.alert-info}
